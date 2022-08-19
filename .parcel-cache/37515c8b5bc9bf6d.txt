@@ -1,0 +1,15 @@
+14
+106C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\4-typescript.3464ddca.js.map133047615321206569 0
+79C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\app.ts133052761569620786 0
+82C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\style.css133047635976874399 0
+77C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist133052884874215584 1
+100C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.3a01df49.css.map133052761806904957 0
+83C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\index.html133052884872532700 0
+96C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.3a01df49.css133052761806829111 0
+85C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\package.json133047635672373849 0
+102C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\4-typescript.3464ddca.js133047615321179734 0
+95C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.8e9bd240.js133047728205355557 0
+99C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.8e9bd240.js.map133047728205385426 0
+95C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.d5b4114f.js133052761807380980 0
+99C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.d5b4114f.js.map133052761807407363 0
+88C:\Users\VIGVI\OneDrive\Documents\projects\viglot.github.io\4-typescript\dist\index.html133052884874196238 0

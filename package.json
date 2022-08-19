@@ -1,0 +1,20 @@
+{
+  "name": "4-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx parcel ./src/index.html" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viglot/4-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viglot/4-typescript/issues"
+  },
+  "homepage": "https://github.com/viglot/4-typescript#readme"
+}
